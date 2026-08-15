@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# .NET build output
+**/bin/
+**/obj/
+artifacts/
+
+# Publish output
+**/publish/
+
+# User-specific publish settings
+*.pubxml.user
+
+# Test / coverage output
+TestResults/
+coverage/
+coverage.*
+
+# Logs / temporary files
+*.log
+*.tmp
+*.temp
+
+# OS-generated files
+Thumbs.db
+Desktop.ini
+.DS_Store

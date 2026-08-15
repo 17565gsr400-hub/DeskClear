@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DeskClear.Core/DeskClear.Core.csproj" Id="085ee735-963d-4710-9d84-49c40801c4c4" />
+  <Project Path="DeskClear.DryRun/DeskClear.DryRun.csproj" Id="74d7060d-e6d5-47b3-8829-e7818bca19c2" />
+  <Project Path="DeskClear.Quick/DeskClear.Quick.csproj" Id="68220dad-cc03-40ae-b03e-aa936d9c31ca" />
+  <Project Path="DeskClear/DeskClear.csproj" />
+</Solution>

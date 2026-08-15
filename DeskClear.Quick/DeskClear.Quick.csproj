@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+     <OutputType>WinExe</OutputType>
+     <TargetFramework>net10.0</TargetFramework>
+	  
+     <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+     <SelfContained>true</SelfContained>
+     <PublishSingleFile>true</PublishSingleFile>
+	 <ApplicationIcon>DeskClear.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DeskClear.Core\DeskClear.Core.csproj" />
+  </ItemGroup>
+
+</Project>
