@@ -182,4 +182,7 @@ v1.0 では機能を増やしすぎず、
 
 License
 
-ライセンスは公開前に決定予定です。
+DeskClear is released under the BSD Zero-Clause License (0BSD).
+
+利用・改変・再配布・商用利用を含め、自由に利用できます。
+詳細は LICENSE.txt を参照してください。
