@@ -16,6 +16,21 @@ Process.Kill() や TerminateProcess() は使わず、Windows の通常の終了�
 
 そのため、終了時の保存確認・キャンセル・AutoSave・セッション復元などの挙動は、各アプリケーション側の実装に依存します。
 
+
+ダウンロード / すぐ使いたい方
+
+GitHubの「Releases」から最新版を開き、
+Assets内の
+
+DeskClear-v1.0.0-win-x64.exe
+
+をダウンロードしてください。
+
+「Source code (zip)」「Source code (tar.gz)」は
+ソースコード一式です。
+通常利用のみの場合はダウンロード不要です。
+
+
 主な特徴
 
 ・通常の可視トップレベルウィンドウを列挙
